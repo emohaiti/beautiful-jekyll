@@ -20,12 +20,25 @@ description: Toutes les informations concernant le concours national de robotiqu
 
 # List of links in the navigation bar
 navbar-links:
-  A Propos: "aboutme"
-  Inscriptions: ""
+  A Propos: "info"
+  Inscriptions: "inscription"
   Ressources:
-    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
-    - Learn markdown: "http://www.markdowntutorial.com/"
-  Supporter: "http://deanattali.com"
+    - Former son equipe: ""
+    - Inscrire son Equipe: ""
+    - Se preparer pour le test de prequalifaction: ""
+    - Subir le test de prequalifaction: ""
+    - Recevoir le kit de robotique: ""
+    - Se familiariser avec le kit de robotique: ""
+    - Presentation du challenge classique: ""
+    - Construire son robot (Categorie Classique): ""
+    - Construire son robot (Categorie Universitaire): ""
+    - Tirer avantage des centres de robotique: ""
+    - Tirer avantage de son Mentor: ""
+    - Se preparer pour la finale: ""
+    - Workshops et seminaires: ""
+    - Autres ressources: ""
+    - L'equipe d'organisation: ""
+  Supporter: "http://www.emohaiti.com/fundraising"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
@@ -61,7 +74,7 @@ footer-link-col: "#404040"
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: EMO-Haiti
+  name: EMO-Haiti Incorporated
 
 # Select your active Social Network Links.
 # Uncomment the links you want to show in the footer and add your information to each link.
@@ -94,7 +107,7 @@ share-links-active:
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "emohaiti.com"  # eg. "deanattali.com/beautiful-jekyll"
+url-pretty: "www.emohaiti.com"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Web Statistics Section --- #
 
