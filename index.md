@@ -22,6 +22,10 @@ Après leur inscription, chaque équipe devra passer une etape de prequalificati
 et les equipes selectionnees recevront (sans aucun frais) un kit contenant
 tout ce qu’il lui faut pour la réalisation d'un robot.
 
+[button url="https://forms.gle/YkSCtTZdfwCt9uGV7"]
+
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSe8n86Vhkl-fLp2z_xoZWmbD7zh8n9xmIekLli-iTwR4-02Ag/viewform?embedded=true" width="640" height="2159" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+
 # Nombre d'Equipes
 Le nombre d'equipes qui auront a participer dependra du montant total collecte
 dans la campagne de levee de fonds qui est en cours ici: www.emohaiti.com/fundraising
