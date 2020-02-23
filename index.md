@@ -2,7 +2,7 @@
 layout: page
 title: Robotique 2020
 subtitle: Lancement Officiel du Concours de Robotique 2020
-bigimg: /img/IMG_0721.png
+bigimg: /img/IMG_9295.png
 ---
 
 EMO-Haïti lance officiellement la deuxième édition du Concours Annuel de Robotique. 
@@ -27,7 +27,7 @@ Après leur inscription, chaque équipe devra passer une étape de préqualifica
 et les équipes sélectionnées recevront (sans aucun frais) un kit contenant
 tout les matériels necessaires faut pour la réalisation du robot.
 
-<button name="button" onclick="inscription">Inscrire son Equipe</button>
+<button name="button" onclick="{{ site.baseurl }}{% /inscription.md %}">Inscrire son Equipe</button>
 
 
 # Nombre d'Equipes
