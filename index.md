@@ -2,7 +2,7 @@
 layout: page
 title: Robotique 2020
 subtitle: Lancement Officiel du Concours de Robotique 2020
-bigimg: /img/IMG_0721.png
+bigimg: /img/IMG_0721.png, /img/IMG_9295.png
 ---
 
 EMO-Haïti lance officiellement la deuxième édition du Concours Annuel de Robotique. 
@@ -16,34 +16,34 @@ Le concours annuel de robotique vise les élèves du troisième cycle
  licence d’étude universitaire.
  
 # Categories 
-Le concours de cette annee aura 2 categories:
-1. Classique: toutes les equipes travaillent sur un project specifique qui sera
-annonce bientot
+Le concours de cette année aura 2 catégories:
+1. Classique: toutes les équipes travaillent sur un project specifique qui sera
+annoncé bientot
 2. Universitaire: Chaque équipe décide quel robot construire.
 
 # Inscriptions
-Les inscriptions se feront en ligne du 17 Fevrier au 15 Mars 2020. 
-Après leur inscription, chaque équipe devra passer une etape de prequalification
-et les equipes selectionnees recevront (sans aucun frais) un kit contenant
-tout ce qu’il lui faut pour la réalisation d'un robot.
+Les inscriptions se feront en ligne jusqu'au 20 Mars 2020. 
+Après leur inscription, chaque équipe devra passer une étape de préqualification
+et les équipes sélectionnées recevront (sans aucun frais) un kit contenant
+tout les matériels necessaires faut pour la réalisation du robot.
 
-[button url="https://forms.gle/YkSCtTZdfwCt9uGV7"]
+<button name="button" onclick="inscription.md">Inscrire son Equipe</button>
 
 
 # Nombre d'Equipes
-Le nombre d'equipes qui auront a participer dependra du montant total collecte
-dans la campagne de levee de fonds qui est en cours ici: www.emohaiti.com/fundraising
-Priere de faire une contribution et de partager le lien avec vos amis et collegues.
+Le nombre d'équipes qui auront à participer dépendra du montant total collecté
+dans la campagne de levée de fonds qui est en cours ici: <a href="www.emohaiti.com/fundraising">Fundraising</a>
+Prière de faire une contribution et de partager le lien avec vos amis et collègues.
 
 # Finale
 
-La finale du concours se tiendra durant la troisieme edition du sommet EdTech Haiti 
+La finale du concours se tiendra durant la troisième edition du sommet EdTech Haiti 
 durant le mois de Juillet 2020.
 
 # Comment nous supporter
 
 1. Faire une contribution sur <a href="https://www.emohaiti.com/fundraising">www.emohaiti.com/fundraising</a> et partager le lien avec 
-collegues et amis 
-2. Like notre page facebook et Instagram, suivez-nous sur Twitter @emohaiti
-3. Nous ecrire sur support@emohaiti.com pour rejoindre le comite d'organisation, 
+collègues et amis 
+2. Like notre page facebook facebook.com/emohaiti, suivez-nous sur Instagram et Twitter @emohaiti
+3. Nous écrire sur support@emohaiti.com pour rejoindre le comité d'organisation, 
 offrir votre support ou partager des suggestions
