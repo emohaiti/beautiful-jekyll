@@ -27,7 +27,7 @@ Après leur inscription, chaque équipe devra passer une étape de préqualifica
 et les équipes sélectionnées recevront (sans aucun frais) un kit contenant
 tout les matériels necessaires faut pour la réalisation du robot.
 
-<button name="button" onclick="https://robotique.emohaiti.com/inscription/">Inscrire son Equipe</button>
+<a href="https://robotique.emohaiti.com/inscription/">Inscrire son Equipe</a>
 
 
 # Nombre d'Equipes
