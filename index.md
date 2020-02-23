@@ -1,7 +1,8 @@
 ---
 layout: page
-title: 
+title: Robotique 2020
 subtitle: Lancement Officiel du Concours de Robotique 2020
+bigimg: IMG_9303.jpg, IMG_0773.png
 ---
 
 EMO-Haïti lance officiellement la deuxieme édition du Concours Annuel de Robotique. 
