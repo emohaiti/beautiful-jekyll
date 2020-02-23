@@ -2,18 +2,18 @@
 layout: page
 title: Robotique 2020
 subtitle: Lancement Officiel du Concours de Robotique 2020
-bigimg: "/img/IMG_0721.png" "/img/IMG_9295.png"
+bigimg: /img/IMG_0721.png
 ---
 
-EMO-Haïti lance officiellement la deuxieme édition du Concours Annuel de Robotique. 
-EMO-Haïti est une entreprise a but non-lucratif qui oeuvre pour l'integration
-effective des nouvelles technologies dans l'education en Haiti. Pour plus 
-d'information sur EMO-Haïti, ses activites et sa vision, priere de consulter
+EMO-Haïti lance officiellement la deuxième édition du Concours Annuel de Robotique. 
+EMO-Haïti est une entreprise à but non-lucratif qui oeuvre pour l'intégration
+éffective des nouvelles technologies dans l'éducation en Haïti. Pour plus 
+d'information sur EMO-Haïti, ses activités et sa vision, prière de consulter
 <a href="https://www.emohaiti.com">www.emohaiti.com</a> 
 
-Le concours annuel de robotique vise les eleves du troisieme cycle
+Le concours annuel de robotique vise les élèves du troisième cycle
  fondamental et tout universitaire n’ayant pas encore obtenu sa première 
- licence d’etude universitaire.
+ licence d’étude universitaire.
  
 # Categories 
 Le concours de cette annee aura 2 categories:
