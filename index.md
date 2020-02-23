@@ -1,4 +1,8 @@
-# Introduction
+---
+layout: page
+title: Lancement Officiel du Concours de Robotique 2020
+subtitle: 
+---
 
 EMO-Haïti lance officiellement la deuxieme édition du Concours Annuel de Robotique. 
 EMO-Haïti est une entreprise a but non-lucratif qui oeuvre pour l'integration
